@@ -1,0 +1,15 @@
+C:\Users\hemanta.devi.huril\Desktop\dotNet\moFaim\moFaim\moFaim\bin\Debug\netstandard2.0\moFaim.deps.json
+C:\Users\hemanta.devi.huril\Desktop\dotNet\moFaim\moFaim\moFaim\bin\Debug\netstandard2.0\moFaim.dll
+C:\Users\hemanta.devi.huril\Desktop\dotNet\moFaim\moFaim\moFaim\bin\Debug\netstandard2.0\moFaim.pdb
+C:\Users\hemanta.devi.huril\Desktop\dotNet\moFaim\moFaim\moFaim\obj\Debug\netstandard2.0\moFaim.csprojAssemblyReference.cache
+C:\Users\hemanta.devi.huril\Desktop\dotNet\moFaim\moFaim\moFaim\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\hemanta.devi.huril\Desktop\dotNet\moFaim\moFaim\moFaim\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\hemanta.devi.huril\Desktop\dotNet\moFaim\moFaim\moFaim\obj\Debug\netstandard2.0\Pages\LoginPage.xaml.g.cs
+C:\Users\hemanta.devi.huril\Desktop\dotNet\moFaim\moFaim\moFaim\obj\Debug\netstandard2.0\Pages\RegistrationPage.xaml.g.cs
+C:\Users\hemanta.devi.huril\Desktop\dotNet\moFaim\moFaim\moFaim\obj\Debug\netstandard2.0\moFaim.csproj.CoreCompileInputs.cache
+C:\Users\hemanta.devi.huril\Desktop\dotNet\moFaim\moFaim\moFaim\obj\Debug\netstandard2.0\moFaim.AssemblyInfoInputs.cache
+C:\Users\hemanta.devi.huril\Desktop\dotNet\moFaim\moFaim\moFaim\obj\Debug\netstandard2.0\moFaim.AssemblyInfo.cs
+C:\Users\hemanta.devi.huril\Desktop\dotNet\moFaim\moFaim\moFaim\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\hemanta.devi.huril\Desktop\dotNet\moFaim\moFaim\moFaim\obj\Debug\netstandard2.0\moFaim.dll
+C:\Users\hemanta.devi.huril\Desktop\dotNet\moFaim\moFaim\moFaim\obj\Debug\netstandard2.0\moFaim.pdb
+C:\Users\hemanta.devi.huril\Desktop\dotNet\moFaim\moFaim\moFaim\obj\Debug\netstandard2.0\Pages\RestaurantView.xaml.g.cs

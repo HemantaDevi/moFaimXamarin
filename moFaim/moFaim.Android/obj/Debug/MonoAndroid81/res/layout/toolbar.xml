@@ -1,0 +1,62 @@
+<android.support.v7.widget.Toolbar android:layout_width="match_parent" android:layout_height="match_parent" android:background="@drawable/splash" android:weightSum="100" android:minWidth="25px" android:minHeight="25px" xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" xmlns:tools="http://schemas.android.com/tools"><View android:id="@+id/overlay" android:layout_width="match_parent" android:layout_height="match_parent" android:background="#BF000000" android:clickable="true" android:visibility="visible" /><!--<TextView
+		android:text="Mo Faim"
+		android:textAppearance="?android:attr/textAppearanceMedium"
+		android:layout_width="wrap_content"
+		android:layout_weight="20"
+		android:layout_height="wrap_content"
+		android:textColor="#008080"
+		android:id="@+id/textCreateAccount"
+		android:gravity="center"
+		android:textStyle="bold"
+		android:textSize="70sp"
+		android:layout_centerHorizontal="true"/>
+	<EditText
+		android:id="@+id/editEmailAddress"
+		android:layout_width="wrap_content"
+		android:layout_height="wrap_content"
+		android:ems="10"
+		android:inputType="textEmailAddress"
+		android:hint="Enter Email Address"
+		android:layout_alignParentTop="true"
+		android:layout_centerHorizontal="true"
+		android:layout_marginTop="150dp"
+		android:textColorHint="#f2f2f2"
+		android:textColor="#f2f2f2"
+		android:textSize="40px"/>
+	<EditText
+		android:id="@+id/editPassword"
+		android:layout_width="wrap_content"
+		android:layout_height="wrap_content"
+		android:ems="10"
+		android:hint="Enter Password"
+		android:inputType="textPassword"
+		android:layout_alignParentTop="true"
+		android:layout_centerHorizontal="true"
+		android:layout_marginTop="210dp"
+		android:textColorHint="#f2f2f2"
+		android:textColor="#f2f2f2"
+		android:textSize="40px"/>
+
+	<Button
+		android:id="@+id/loginButton"
+		android:layout_width="wrap_content"
+		android:layout_height="wrap_content"
+		android:layout_alignParentTop="true"
+		android:layout_centerHorizontal="true"
+		android:layout_marginTop="300dp"
+		android:onClick="switchToRestaurantPage"
+		android:text="Login"/>
+
+	<TextView
+		android:id="@+id/registerActivityLink"
+		android:layout_width="wrap_content"
+		android:layout_height="wrap_content"
+		android:layout_alignParentTop="true"
+		android:layout_centerHorizontal="true"
+		android:layout_marginTop="370dp"
+		android:clickable="true"
+		android:linksClickable="true"
+		android:text="Not Yet Register?"
+		android:textColor="#6ec2b1"
+		android:textStyle="bold"
+		android:textSize="40px"/>--></android.support.v7.widget.Toolbar>

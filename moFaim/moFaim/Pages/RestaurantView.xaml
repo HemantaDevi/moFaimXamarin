@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"  
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"  
+             x:Class="moFaim.Pages.RestaurantView"  
+             BackgroundColor="Orange">
+    
+    <ContentPage.Content>
+        <ScrollView>
+        <ListView  x:Name="lstView" RowHeight="60">
+            <ListView.ItemTemplate>
+                <DataTemplate>
+                    <ViewCell>
+                        <!--<StackLayout Orientation="Horizontal" HorizontalOptions="Fill" BackgroundColor="White">
+                            <StackLayout Orientation="Vertical">
+                                <Label Text = "{Binding RestaurantName}" FontSize="10"/>
+                                <Label Text = "{Binding Location}" FontSize="7" />
+                            </StackLayout>
+                            <Image Source="{Binding Image}" HorizontalOptions="Start"/>
+                        </StackLayout>-->
+                    </ViewCell>
+                </DataTemplate>
+            </ListView.ItemTemplate>
+        </ListView>
+        </ScrollView>
+    </ContentPage.Content>
+</ContentPage>
